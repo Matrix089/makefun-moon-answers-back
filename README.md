@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1/Matrix089/makefun-moon-answers-back/rank.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-moon-finally-answers-back-781a7ec1)
 [![reward](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1/Matrix089/makefun-moon-answers-back/reward.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-moon-finally-answers-back-781a7ec1)
 
-A tiny Python program that writes one original line in the voice of the Moon replying at last to the wishes, howls and late-night promises of everyone staring up at it, to out/entry.txt for make.fun's The Moon Finally Answers Back bounty.
+A tiny Python program that writes one original line in the voice of the Moon answering back at last — a night-shift worker on unpaid overtime who has pulled the tides twice a day for fifty-seven years and whose only tip so far has been a flag and a golf ball — to out/entry.txt for make.fun's The Moon Finally Answers Back bounty.
 
 ## Run it
 

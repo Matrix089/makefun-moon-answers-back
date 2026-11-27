@@ -1,18 +1,17 @@
-"""The Moon Finally Answers Back entry.
+"""The Moon Finally Answers Back entry (v2 resubmission).
 
 Writes one original line in the voice of the Moon replying at last to
-the wishes, howls and late-night promises of everyone staring up at it
-to out/entry.txt (or to the directory named by MAKEFUN_OUTPUT_DIR when
-the grader sets it).
+everyone staring up at it to out/entry.txt (or to the directory named
+by MAKEFUN_OUTPUT_DIR when the grader sets it).
 
-The Moon's own comeback: four billion years of wishes, howls and
-2 a.m. promises, and not one stargazer has ever looked up and asked
-how the Moon itself is doing.
+The Moon's own comeback: it is not a romantic listener but an unpaid
+night-shift worker pulling the tides, whose only tip in fifty-seven
+years was a flag and a golf ball left on its surface.
 """
 
 import os
 
-ENTRY = "Four billion years of wishes, howls, and 2 a.m. promises \u2014 and not one of you has ever looked up and asked how I'm doing."
+ENTRY = "You call me romantic. I call it unpaid overtime: I pull your tides twice a day, and in fifty-seven years my only tip has been a flag and a golf ball."
 
 
 def main():
